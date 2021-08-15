@@ -1,2 +1,4 @@
-# Basic Slot Machine Game
+# Basic Slot Machine Game using React
+
+ScreenShot:
 
