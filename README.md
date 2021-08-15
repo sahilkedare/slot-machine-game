@@ -2,4 +2,4 @@
 
 ScreenShot:
 
-<img src="/slot-machine.png">
+<img src="/slot-machine.png"> 
